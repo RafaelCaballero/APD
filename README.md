@@ -11,4 +11,6 @@
      </tr>
 </table>
 
-## Adquisicion y preprocesamiento de datos - RafaC
+## Adquisicion y preprocesamiento de datos - Rafael Caballero Roldán
+
+Notebooks de apoyo a la asignatura
